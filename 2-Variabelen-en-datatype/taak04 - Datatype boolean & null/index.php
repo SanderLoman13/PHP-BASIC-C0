@@ -5,7 +5,7 @@
 <?php
 $test = true;
 echo "de waarde van test is: " . $test . "<br>";
-$test = null;
+$test = false;
 echo "de waarde van test is: " . $test . "<br>";
 ?>
 
