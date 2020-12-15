@@ -8,7 +8,7 @@ if($var1 < 10 && $var1 > 5) {
 }
 echo "<br>";
 if($var1 < 10 || $var1 > 5) {
-    echo "het getal is kleiner dan 5!";
+    echo "Het getal is kleiner dan 5!";
 } else {
     echo "Het getal is groter dan 10!";
 }
